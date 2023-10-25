@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redoak/Cycad/Geography.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redoak/Cycad/Geography.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redoak/Cycad/Geography.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redoak/Cycad/Geography.md"
+                "file": "README.md"
               }
             }
           }
@@ -156,6 +156,7 @@
   },
   "active": "03d9bfc47765cccd",
   "lastOpenFiles": [
+    "Redoak/Cycad/Geography.md",
     "Redoak/Cycad/Culture and People.md",
     "Redoak/Sphenoph/Table of Contents.md",
     "Tenhoma/Travel End/Table of Contents.md",
@@ -181,7 +182,6 @@
     "Kadembor/Glass Sanctuary/Table of Contents.md",
     "Kadembor/Fort Waltingham/Table of Contents.md",
     "Kadembor/Fort Easley/Table of Contents.md",
-    "Harembor/Wesson/Table of Contents.md",
     "Tenhoma/Avian Sanctum",
     "Tenhoma/New folder",
     "Tenhoma/Drydon",
