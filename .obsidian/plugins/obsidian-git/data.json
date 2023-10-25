@@ -24,7 +24,7 @@
   "showBranchStatusBar": true,
   "setLastSaveToLastCommit": false,
   "submoduleRecurseCheckout": false,
-  "gitDir": "C:\\Users\\aplin\\OneDrive\\Documents\\Prison Planet\\Prison Planet\\PrisonPlanetGit\\Prison Planet\\.git",
+  "gitDir": "",
   "showFileMenu": true,
   "lineAuthor": {
     "show": false,
@@ -47,9 +47,7 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
-    "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
+    "gutterSpacingFallbackLength": 5
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }

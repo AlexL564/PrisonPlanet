@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "befe7a63eb4a7588",
+    "id": "adb3189e917fbbf9",
     "type": "split",
     "children": [
       {
-        "id": "7cd48340290c66b6",
+        "id": "31f401a6d426d731",
         "type": "tabs",
         "children": [
           {
-            "id": "b4967664a4dc9f06",
+            "id": "03d9bfc47765cccd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PrisonPlanetGit/Prison Planet/Redoak/Cycad/Overview.md",
+                "file": "Redoak/Cycad/Overview.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "a5592e586fe1fc8d",
+    "id": "66af9271fa80de4b",
     "type": "split",
     "children": [
       {
-        "id": "80bf818654b1079c",
+        "id": "675d2e9b9315683c",
         "type": "tabs",
         "children": [
           {
-            "id": "3c5b7edb068a63b8",
+            "id": "cf7294b7fd1de489",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "d7935431239326fa",
+            "id": "b59f2e044db84a8b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,15 @@
             }
           },
           {
-            "id": "a76a710adff2218e",
+            "id": "d6abca539cd50c69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "9ee5da62b0977e37",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "c3c41e13453e9d41",
+    "id": "37a07998d90d757e",
     "type": "split",
     "children": [
       {
-        "id": "0c565f60716506c8",
+        "id": "419f667de58fedd2",
         "type": "tabs",
         "children": [
           {
-            "id": "b44609c0fd536d0d",
+            "id": "93a6d7577ab514c7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PrisonPlanetGit/Prison Planet/Redoak/Cycad/Overview.md",
+                "file": "Redoak/Cycad/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +105,19 @@
             }
           },
           {
-            "id": "c500fae93023f8b7",
+            "id": "ce3c9aeea31ba81b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PrisonPlanetGit/Prison Planet/Redoak/Cycad/Overview.md",
+                "file": "Redoak/Cycad/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "428941b44dc07ca3",
+            "id": "18dd9764ddd9c3e8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +128,12 @@
             }
           },
           {
-            "id": "9b3c86ff08af4dd1",
+            "id": "e246d99b0207543f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "PrisonPlanetGit/Prison Planet/Redoak/Cycad/Overview.md"
+                "file": "Redoak/Cycad/Overview.md"
               }
             }
           }
@@ -146,8 +154,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b4967664a4dc9f06",
+  "active": "03d9bfc47765cccd",
   "lastOpenFiles": [
-    "PrisonPlanetGit/Prison Planet/README.md"
+    "Redoak/Cycad/Structures and Districts.md",
+    "Redoak/Cycad/Table Of Contents.md",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Cycad/Table Of Contents.md",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Cycad/Structures and Districts.md",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Cycad/Government and Policies.md",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Cycad/Specialization.md",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Cycad/Overview.md",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Cycad/Geography.md",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Cycad/Culture and People.md",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Sphenoph",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Pinoph",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Neto",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Mosses",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Magnoli",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Liverwort",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Grinkgo",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Hornwort",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Filico",
+    "PrisonPlanetGit/PrisonPlanet/Redoak/Cycad",
+    "PrisonPlanetGit/Redoak/Cycad/Table Of Contents.md",
+    "PrisonPlanetGit/Redoak/Cycad/Structures and Districts.md",
+    "PrisonPlanetGit/Redoak/Cycad/Specialization.md",
+    "PrisonPlanetGit/Redoak/Cycad/Overview.md",
+    "PrisonPlanetGit/Redoak/Cycad/Government and Policies.md",
+    "PrisonPlanetGit/Redoak/Cycad/Geography.md",
+    "PrisonPlanetGit/Redoak/Cycad/Culture and People.md",
+    "Redoak/Cycad/Culture and People.md",
+    "Redoak/Cycad/Overview.md",
+    "Redoak/Cycad/Geography.md",
+    "Redoak/Cycad/Government and Policies.md",
+    "Redoak/Cycad/Specialization.md"
   ]
 }
