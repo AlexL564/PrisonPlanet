@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Redoak/Cycad/Specialization.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Redoak/Cycad/Specialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Redoak/Cycad/Specialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Redoak/Cycad/Specialization.md"
               }
             }
           }
@@ -156,8 +156,9 @@
   },
   "active": "03d9bfc47765cccd",
   "lastOpenFiles": [
-    "Redoak/Cycad/Geography.md",
     "Redoak/Cycad/Culture and People.md",
+    "README.md",
+    "Redoak/Cycad/Geography.md",
     "Redoak/Sphenoph/Table of Contents.md",
     "Tenhoma/Travel End/Table of Contents.md",
     "Tenhoma/Thick Woodland/Table of Contents.md",
@@ -181,7 +182,6 @@
     "Kadembor/Impregnable Prison/Table of Contents.md",
     "Kadembor/Glass Sanctuary/Table of Contents.md",
     "Kadembor/Fort Waltingham/Table of Contents.md",
-    "Kadembor/Fort Easley/Table of Contents.md",
     "Tenhoma/Avian Sanctum",
     "Tenhoma/New folder",
     "Tenhoma/Drydon",
