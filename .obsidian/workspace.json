@@ -73,7 +73,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -156,6 +157,8 @@
   },
   "active": "03d9bfc47765cccd",
   "lastOpenFiles": [
+    "Redoak/Cycad/CycadFlag.jpg",
+    "Redoak/Cycad/CycadFlag.jpg.crdownload",
     "Redoak/Cycad/Geography.md",
     "Redoak/Cycad/funicular.jpg",
     "Redoak/Cycad/funicular.webp",
@@ -192,7 +195,6 @@
     "Tenhoma/Drydon",
     "Tenhoma/Murdurtin",
     "Tenhoma/Brydon",
-    "Tenhoma/Burrow Down",
-    "Tenhoma/Algeess"
+    "Tenhoma/Burrow Down"
   ]
 }
