@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redoak/Cycad/Specialization.md",
+                "file": "Redoak/Cycad/Geography.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redoak/Cycad/Specialization.md",
+                "file": "Redoak/Cycad/Geography.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redoak/Cycad/Specialization.md",
+                "file": "Redoak/Cycad/Geography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redoak/Cycad/Specialization.md"
+                "file": "Redoak/Cycad/Geography.md"
               }
             }
           }
@@ -156,9 +156,16 @@
   },
   "active": "03d9bfc47765cccd",
   "lastOpenFiles": [
+    "Redoak/Cycad/funicular.jpg",
+    "Redoak/Cycad/funicular.webp",
     "Redoak/Cycad/Culture and People.md",
-    "README.md",
     "Redoak/Cycad/Geography.md",
+    "Redoak/Cycad/funicular.webp.crdownload",
+    "Redoak/Cycad/funicular.jpg.crdownload",
+    "Redoak/Cycad/funicular.png",
+    "Redoak/Cycad/funicular.png.crdownload",
+    "Redoak/Cycad/Specialization.md",
+    "README.md",
     "Redoak/Sphenoph/Table of Contents.md",
     "Tenhoma/Travel End/Table of Contents.md",
     "Tenhoma/Thick Woodland/Table of Contents.md",
@@ -180,17 +187,12 @@
     "Kadembor/Mountain Edge/Table of Contents.md",
     "Kadembor/Middle Cliff Lift/Table of Contents.md",
     "Kadembor/Impregnable Prison/Table of Contents.md",
-    "Kadembor/Glass Sanctuary/Table of Contents.md",
-    "Kadembor/Fort Waltingham/Table of Contents.md",
     "Tenhoma/Avian Sanctum",
     "Tenhoma/New folder",
     "Tenhoma/Drydon",
     "Tenhoma/Murdurtin",
     "Tenhoma/Brydon",
     "Tenhoma/Burrow Down",
-    "Tenhoma/Algeess",
-    "Tenhoma/Travel End",
-    "Tenhoma/Thick Woodland",
-    "Tenhoma/Burrow Dawn"
+    "Tenhoma/Algeess"
   ]
 }
