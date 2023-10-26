@@ -4,18 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "33b9f63dc9e38ddf",
+        "id": "1733a29cbc3f51b2",
         "type": "tabs",
         "children": [
           {
-            "id": "018142fcef7ddad4",
+            "id": "a09e9013b3a8908e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Autonoumous/Hydrain/Table of Contents.md",
+                "file": "Redoak/Cycad/Overview.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "018142fcef7ddad4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Materials/Dungeons & Dragons Core Rulebook_ Dungeon Master's Guide.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6f3a8cc1b3cfffb1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "902eb41a75f65a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Character/Azerald.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff587190a474c615",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Reference Materials/Dungeons & Dragons Core Rulebook_ Dungeon Master's Guide.pdf"
               }
             }
           }
@@ -93,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Autonoumous/Hydrain/Table of Contents.md",
+                "file": "Character/Azerald.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Autonoumous/Hydrain/Table of Contents.md",
+                "file": "Character/Azerald.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Autonoumous/Hydrain/Table of Contents.md"
+                "file": "Character/Azerald.md"
               }
             }
           }
@@ -154,21 +192,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "018142fcef7ddad4",
+  "active": "902eb41a75f65a80",
   "lastOpenFiles": [
-    "Autonoumous/Collidaton/Table of Contents.md",
-    "Redoak/Cycad/CycadFlag.jpg",
-    "Redoak/Cycad/CycadFlag.jpg.crdownload",
+    "Reference Materials/Dungeons & Dragons Core Rulebook_ Dungeon Master's Guide.pdf",
+    "Reference Materials/Dungeons & Dragons Core Rulebook_ Dungeon Master's Guide -- Wizards RPG Team -- Dungeons & Dragons, 2014 -- Wizards of the Coast -- 9780786965625 -- 6ac3d2dfe16919845cfba36213c4c4d6 -- Anna’s Archive.pdf",
+    "Redoak/Cycad/Overview.md",
+    "Character/Azerald.md",
+    "Character",
+    "Reference Materials",
+    "New folder",
+    "Redoak/Cycad/Government and Policies.md",
+    "Redoak/Cycad/Specialization.md",
+    "Redoak/Cycad/Structures and Districts.md",
+    "README.md",
     "Redoak/Cycad/Geography.md",
-    "Redoak/Cycad/funicular.jpg",
-    "Redoak/Cycad/funicular.webp",
     "Redoak/Cycad/Culture and People.md",
+    "Redoak/Cycad/funicular.webp",
+    "Redoak/Cycad/funicular.jpg",
+    "Redoak/Cycad/CycadFlag.jpg",
+    "Autonoumous/Hydrain/Table of Contents.md",
+    "Autonoumous/Collidaton/Table of Contents.md",
+    "Redoak/Cycad/CycadFlag.jpg.crdownload",
     "Redoak/Cycad/funicular.webp.crdownload",
     "Redoak/Cycad/funicular.jpg.crdownload",
     "Redoak/Cycad/funicular.png",
     "Redoak/Cycad/funicular.png.crdownload",
-    "Redoak/Cycad/Specialization.md",
-    "README.md",
     "Redoak/Sphenoph/Table of Contents.md",
     "Tenhoma/Travel End/Table of Contents.md",
     "Tenhoma/Thick Woodland/Table of Contents.md",
@@ -184,17 +232,6 @@
     "Sangrimp/Intersecty/Table of Contents.md",
     "Sangrimp/Halfling Harbor/Table of Contents.md",
     "Sangrimp/Dragons Keep/Table of Contents.md",
-    "Sangrimp/Blazing Sands/Table of Contents.md",
-    "Kadembor/West Cliff Lift/Table of Contents.md",
-    "Kadembor/Sand Village/Table of Contents.md",
-    "Kadembor/Mountain Edge/Table of Contents.md",
-    "Kadembor/Middle Cliff Lift/Table of Contents.md",
-    "Kadembor/Impregnable Prison/Table of Contents.md",
-    "Tenhoma/Avian Sanctum",
-    "Tenhoma/New folder",
-    "Tenhoma/Drydon",
-    "Tenhoma/Murdurtin",
-    "Tenhoma/Brydon",
-    "Tenhoma/Burrow Down"
+    "Tenhoma/Avian Sanctum"
   ]
 }
