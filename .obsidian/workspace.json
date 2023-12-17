@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redoak/Cycad/Culture and People.md",
+                "file": "Character/Inventory.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redoak/Cycad/Culture and People.md",
+                "file": "Character/Inventory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redoak/Cycad/Culture and People.md",
+                "file": "Character/Inventory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redoak/Cycad/Culture and People.md"
+                "file": "Character/Inventory.md"
               }
             }
           }
@@ -194,16 +194,19 @@
   },
   "active": "a09e9013b3a8908e",
   "lastOpenFiles": [
+    "Character/Background.md",
+    "Character/Abilities.md",
+    "Character/Inventory.md",
+    "Character/Azerald.md",
+    "Redoak/Cycad/Culture and People.md",
     "Redoak/Cycad/Structures and Districts.md",
     "Redoak/Cycad/Geography.md",
     "Redoak/Cycad/Overview.md",
     "Redoak/Cycad/Specialization.md",
-    "Character/Azerald.md",
     "Redoak/Cycad/Pier.jpg",
     "Redoak/Cycad/Government and Policies.md",
     "Redoak/Cycad/Table Of Contents.md",
     "Redoak/Cycad/Pier.jpg.crdownload",
-    "Redoak/Cycad/Culture and People.md",
     "Redoak/Cycad/funicular.webp",
     "Reference Materials/Dungeons & Dragons Core Rulebook_ Dungeon Master's Guide.pdf",
     "Reference Materials/Dungeons & Dragons Core Rulebook_ Dungeon Master's Guide -- Wizards RPG Team -- Dungeons & Dragons, 2014 -- Wizards of the Coast -- 9780786965625 -- 6ac3d2dfe16919845cfba36213c4c4d6 -- Anna’s Archive.pdf",
@@ -231,8 +234,6 @@
     "Tenhoma/Avian Sanctum/Table of Contents.md",
     "Tenhoma/Table of Contents.md",
     "Sangrimp/Travel West City/Table of Contents.md",
-    "Sangrimp/Travel East City/Table of Contents.md",
-    "Sangrimp/Intersecty/Table of Contents.md",
-    "Sangrimp/Halfling Harbor/Table of Contents.md"
+    "Sangrimp/Travel East City/Table of Contents.md"
   ]
 }
