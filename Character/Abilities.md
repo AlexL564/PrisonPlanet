@@ -1,4 +1,10 @@
-
+# Stats 
+Dex: 17 (+2 race)
+Str: 12 
+Int: 10 (+1 race)
+Cha: 14
+Wis: 17
+Cons: 15
 # Proficiencies
 Animal Handling 
 Survival 

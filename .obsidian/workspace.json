@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Character/Inventory.md",
+                "file": "Character/Abilities.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Character/Inventory.md",
+                "file": "Character/Abilities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Character/Inventory.md",
+                "file": "Character/Abilities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Character/Inventory.md"
+                "file": "Character/Abilities.md"
               }
             }
           }
@@ -195,9 +195,9 @@
   "active": "a09e9013b3a8908e",
   "lastOpenFiles": [
     "Character/Background.md",
+    "Character/Azerald.md",
     "Character/Abilities.md",
     "Character/Inventory.md",
-    "Character/Azerald.md",
     "Redoak/Cycad/Culture and People.md",
     "Redoak/Cycad/Structures and Districts.md",
     "Redoak/Cycad/Geography.md",
